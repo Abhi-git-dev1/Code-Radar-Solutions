@@ -2,7 +2,7 @@
 
 int main() {
 double x;
-scanf("%f"&x);
-printf("%f",x);
+scanf("%lf"&x);
+printf("%lf",x);
     return 0;
 }
