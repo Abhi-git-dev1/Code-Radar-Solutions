@@ -7,7 +7,7 @@ int main() {
    scanf("%d ", &a);
 
    
-   c = a~;
+   c = ~a;
 
    
    printf("%d", c);
